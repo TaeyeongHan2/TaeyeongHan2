@@ -31,12 +31,6 @@ The Windows artist application is the performer-facing part of the team's platfo
 
 - [Windows artist application](https://github.com/TaeyeongHan2/vstage_win) — private repository; access required.
 
-### Unreal Virtual Idol Competition Stage — In Progress
-
-An Unreal-based virtual idol stage project in development, combining competitive performances with audience voting.
-
-The project explores how stage visuals and audience interaction can shape a live performance experience. Its technical direction includes **Unreal Engine, Real-Time Stage Design, Lighting, Shader, VFX, and Interactive Performance Flow**. These are ongoing development goals, with implementation still in progress.
-
 ## Current Interests
 
 - Virtual idol performances, virtual concerts, and entertainment technology
