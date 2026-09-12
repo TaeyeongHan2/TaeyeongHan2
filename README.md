@@ -81,29 +81,6 @@ The project consists of two main clients:
 
 ---
 
-### Virtual Idol Stage Project
-
-> **In Progress — Unreal Engine**
-
-A competitive virtual idol performance project where two performers share a stage and the audience influences the result through real-time voting.
-
-The project is being developed as a bridge between **virtual entertainment and real-time graphics technology**.
-
-**Technical Focus**
-
-- Unreal Engine
-- Real-Time Stage Design
-- Lighting
-- Materials & Shaders
-- VFX
-- Interactive Performance Systems
-- Audience Interaction
-- Real-Time Rendering
-
-`Repository coming soon`
-
----
-
 ## Tech Stack
 
 ### XR / Real-Time Development
